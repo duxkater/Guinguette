@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Montagnes grises.md",
+                "file": "Templates/Lieu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Montagnes grises"
+              "title": "Lieu"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lieux/Montagnes grises.md",
+                "file": "Templates/Lieu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Montagnes grises"
+              "title": "Rétrolien pour Lieu"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lieux/Montagnes grises.md",
+                "file": "Templates/Lieu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Montagnes grises"
+              "title": "Plan de Lieu"
             }
           }
         ],
@@ -185,39 +185,40 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "5bf86960cc476834",
+  "active": "39c6951b7c9bbb13",
   "lastOpenFiles": [
-    "Lieux/Mines d'Azuline.md",
-    "Lieux/Bois du Limier.md",
-    "Groupe/Groupe.md",
-    "Lieux/Tour de mage abandonnée.md",
+    "Templates/Faction.md",
+    "Donjons/Tour de mage abandonnée.md",
+    "Lieux/Vaubois.md",
     "Personnages/Durzo.md",
+    "Personnages/Féliana.md",
     "Personnages/Milo.md",
     "Personnages/La guèpe.md",
-    "Personnages/Féliana.md",
-    "Lieux/Pic du Faucon.md",
-    "Lieux/Vaubois.md",
-    "Lieux/Montagnes grises.md",
-    "Groupe/Jask.md",
-    "Groupe/Ilkar.md",
-    "Groupe/Altaïr.md",
+    "Templates/Donjon.md",
+    "Donjons",
+    "Menaces",
+    "Templates/Lieu.md",
+    "Templates/Personnage.md",
+    "Templates/Scène.md",
+    "Templates/Menace.md",
     "Factions/Ordre Thrakarim.md",
     "Factions/Habitants de Vaubois.md",
     "Factions/Esclavagistes.md",
     "Factions/Empire.md",
-    "Objets/Marteau de l'Ordre Thrakarim.md",
-    "Templates/Personnage.md",
-    "Templates/Objet.md",
-    "Templates/Faction.md",
-    "Templates/Lieu.md",
     "Personnages/Anis.md",
-    "Personnages/Sans titre.md",
+    "Lieux/Bois du Limier.md",
+    "Groupe/Ilkar.md",
+    "Groupe/Groupe.md",
+    "Groupe/Altaïr.md",
+    "Lieux/Pic du Faucon.md",
+    "Lieux/Montagnes grises.md",
+    "Lieux/Mines d'Azuline.md",
+    "Groupe/Jask.md",
     "Templates",
     "Groupe",
     "Objets",
     "Personnages",
     "Factions",
-    "Lieux",
-    "Bienvenue.md"
+    "Lieux"
   ]
 }
