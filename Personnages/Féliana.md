@@ -18,6 +18,7 @@ Une elfe, boulangère de [[Vaubois]], bien que son réel role tienne plus d'épi
 - PV : 8
 - Dégâts : 3
 # Paliers :
-**Comment cela pourrait-il changer significativement le cours d'un combat en situation de désespoir ?** Notez une ou plusieurs idées sous forme d'escalades.
+- Sort de bouclier autour d'elle
+- Téléportation
 # Notes :
 - Elle a trouvé dans la [[Tour de mage abandonnée]] un grimoire de magie fongique, et a tenté d'invoquer un élémentaire fongique. L'expérience a vraisemblablement mal tourné puisque le mal se répand dans la forêt.

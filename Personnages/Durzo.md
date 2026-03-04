@@ -4,10 +4,5 @@ Il passe du temps dans les [[Bois du Limier]] et y est régulièrement témoin d
 # **Instinct :**
 - Aider la communauté de [[Vaubois]]
 - Ecouter les histoires d'autrefois ou les aventuriers de passage.
-# **Faction :** 
-[[Habitants de Vaubois]]
-# **Lieux associés:**
-- [[Vaubois]]
-- [[Bois du Limier]]
 # **Notes :** 
 - c'est lui qui a indiqué au groupe d'aller voir du côté du [[Pic du Faucon]]
