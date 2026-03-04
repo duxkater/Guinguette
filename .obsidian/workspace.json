@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Vaubois.md",
+                "file": "Lieux/Montagnes grises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vaubois"
+              "title": "Montagnes grises"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lieux/Bois du Limier.md",
+                "file": "Lieux/Montagnes grises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Bois du Limier"
+              "title": "Rétrolien pour Montagnes grises"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lieux/Bois du Limier.md",
+                "file": "Lieux/Montagnes grises.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Bois du Limier"
+              "title": "Plan de Montagnes grises"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +185,19 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "39c6951b7c9bbb13",
+  "active": "5bf86960cc476834",
   "lastOpenFiles": [
-    "Lieux/Tour de mage abandonnée.md",
-    "Lieux/Pic du Faucon.md",
-    "Lieux/Montagnes grises.md",
     "Lieux/Mines d'Azuline.md",
     "Lieux/Bois du Limier.md",
+    "Groupe/Groupe.md",
+    "Lieux/Tour de mage abandonnée.md",
+    "Personnages/Durzo.md",
+    "Personnages/Milo.md",
+    "Personnages/La guèpe.md",
+    "Personnages/Féliana.md",
+    "Lieux/Pic du Faucon.md",
+    "Lieux/Vaubois.md",
+    "Lieux/Montagnes grises.md",
     "Groupe/Jask.md",
     "Groupe/Ilkar.md",
     "Groupe/Altaïr.md",
@@ -199,7 +205,6 @@
     "Factions/Habitants de Vaubois.md",
     "Factions/Esclavagistes.md",
     "Factions/Empire.md",
-    "Lieux/Vaubois.md",
     "Objets/Marteau de l'Ordre Thrakarim.md",
     "Templates/Personnage.md",
     "Templates/Objet.md",
@@ -207,10 +212,6 @@
     "Templates/Lieu.md",
     "Personnages/Anis.md",
     "Personnages/Sans titre.md",
-    "Personnages/Féliana.md",
-    "Personnages/Durzo.md",
-    "Personnages/Milo.md",
-    "Personnages/La guèpe.md",
     "Templates",
     "Groupe",
     "Objets",
