@@ -1,0 +1,24 @@
+- Voyage en charette de marchand pour se rendre à une mine dans les montagnes ou un tyran utiliserait des esclaves
+- On se fait attaquer par des bandits masqués, une jeune femme meurt, son compagnon est très choqué par la situation
+- Un nain chasseur de prime nous aide (plus ou moins) pendant le combat
+- Altair saute du chariot et se retrouve le cul par terre, Ilkar lui sauve la mise pendant que Jask arrose de carreaux les bandits, il en tue un
+- Les autres bandits meurent rapidement, on a trop perdu de temps, et le marchand nous dit qu'on va devoir s'arréter dans un village, Vaubois, et dormir chez un ami à lui, Milo, le maire
+- Arrivés chez Milo, accueil R O Y A L, du ragout et de la chaleur, il est vraiment trop sympa
+- Tard dans la soirée, sa voisine, La Guèpe, entre et amène un tonneau de bière. Méfiante au premier abord, elle se détend dans la soirée et avoue sa haine de l'empire
+- Avant de dormir, Altair part faire une patrouille près du chariot resté dehors, et Jask va composer un peu sous le clair de lune
+- Il entend des bruits : beuglement de vaches en souffrance, jappements de loups
+- Il alerte ses compagnons et tous les trois partent voir de quoi il retourne. Jask parle très fort. Trop fort. Il se sont fait contourner par les loups et se font attaquer dans le dos. Jask se fait mordre au bras
+- Baston, Baston, à la fin, Altair achève le dernier loup mais tranche sans faire expres un des champignons-tumeur sur sa peau. Un gaz rempli de spores s'en échappe et lui asperge son visage de blondinet
+- La guèpe les receuille pour les soigner. Ilkar remarque une très ancienne arme naine dans sa maison.
+- Elle avoue qu'elle est cachée de l'empire, parce que il y a quelques années elle a tué un percepteur d'impots. 
+- Altair découvre avec effroi que le gaz du champignon qu'il a inhalé va inexorablement le condamner à être zombifié, aucun remède n'ayant été trouvé
+- Au réveil, Jask sort jouer du luth et est rejoint par Ilkar. Un bucheron, Durzo, passe et papote avec eux. Il leur apprend que le mal semble provenir du Pic du Faucon, un promontoire rocheux
+- La guèpe a laissé un message au groupe : elle est partie en éclaireuse pour quelques jours et leur laisse la maison en attendant. Elle suggère de chercher à manger chez Féliana, la boulangère
+- Le groupe passe voir Milo qui travaille au jardin, il leur apprend qu'une récompense est prévue pour les aventuriers qui résoudraient le souci. Il leur prète une corde magique qui obéit aux ordres
+- Le groupe va voir Féliana, ils apprennent qu'ele pratique la magie elfe, qui génère une douce odeur d'agrumes pour les sensibles à la magie
+- Ils apprenent également qu'elle est à l'origine du mal fongique : elle a trouvé un grimoire de magie fongique dans une tour abandonnée, et elle a tenté de maitriser un sort qui a dérapé.
+- En étudiant le grimoire, Ilkar apprend que pour invoquer l'élémentaire fongique, il faut utiliser une pierre de météore en son coeur. Le seul moyen de détruire l'élémentaire est de briser la pierre (qui vaut plusieurs millions omg)
+- Avant de partir, Jask a joué un morceau devant le village. Féliana lui dit qu'il a des aptitudes à la magie, et qu'elle pourrait lui en enseigner les secrets. Il semble refuser
+- Départ en voyage, le groupe marche une demie journée avant de tomber dans une embuscade de gobelins. L'un d'eux est contaminé. Ils apprennent au groupe que leur chef est mort, contaminé lui aussi.
+- Encore queqlues heures de voyage et voila le groupe arrivé sur un promontoire, en vue de la tour. Il leur reste une heure de marche environ, dont un peu d'escalade.
+- Jask et Ilkar doivent monter de niveau

@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiShield",
+      "LiFilm",
+      "LiPersonStanding",
+      "LiSkull",
+      "LiMapPin"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,30 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Donjons/Tour de mage abandonnée.md": "LiCastle",
+  "Lieux/Bois du Limier.md": "LiMapPin",
+  "Lieux/Mines d'Azuline.md": "LiMapPin",
+  "Lieux/Montagnes grises.md": "LiMapPin",
+  "Lieux/Pic du Faucon.md": "LiMapPin",
+  "Lieux/Vaubois.md": "LiMapPin",
+  "Menaces/L'élémentaire fongique.md": "LiSkull",
+  "Personnages/Durzo.md": "LiPersonStanding",
+  "Personnages/Féliana.md": "LiPersonStanding",
+  "Personnages/La guèpe.md": "LiPersonStanding",
+  "Personnages/Milo.md": "LiPersonStanding",
+  "Templates/Donjon.md": "LiCastle",
+  "Templates/Lieu.md": "LiMapPin",
+  "Templates/Menace.md": "LiSkull",
+  "Templates/Personnage.md": "LiPersonStanding",
+  "Templates/Scène.md": "LiFilm",
+  "Templates/Faction.md": "LiShield",
+  "Groupe/Altaïr.md": "LiPersonStanding",
+  "Groupe/Groupe.md": "LiPersonStanding",
+  "Groupe/Ilkar.md": "LiPersonStanding",
+  "Groupe/Jask.md": "LiPersonStanding",
+  "Factions/Empire.md": "LiShield",
+  "Factions/Esclavagistes.md": "LiShield",
+  "Factions/Habitants de Vaubois.md": "LiShield",
+  "Factions/Ordre Thrakarim.md": "LiShield"
 }
