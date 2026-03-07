@@ -1,11 +1,9 @@
 # Résumé
-Des mines autrefois creusées par les nains, aujourd'hui exploitées par l'[[Empire]]. On y emploierait des esclaves. A l'entrée, le [[Campement de l'Empire]].
+Un campement provisoire construit par l'[[Empire]] pour exploiter les [[Mines d'Azuline]]. Une vingtaine de tentes de fortune, une grosse tente de commandement et une fragile palissade de bois.
 # Descripteurs
-- Une odeur de souffre permanente
-- Des blocs de granite hauts comme des maisons laissés à l'abandon
-- Les traces d'un ancien système de navigation, à l'alphabet oublié
-- Ca et la, des traces de combats
-- Un campement de l'Empire, ses bannières violettes et jaunes flottant au vent.
+- Une barrière magique entoure le lieu : plusieurs pylones projetant de la foudre sur les curieux.
+- Une grosse tente de tissu violet, entourée d'une quinzine de tentes de fortune rapiécées.
+- Plusieurs cages de métal dans un coin, dans lesquelles croupissent les criminels fouéttés par le vent glacial des montagnes.
 # PNJs
 Les PNJ sont les personnes, les animaux, les monstres et autres entités que les aventuriers peuvent rencontrer à cet endroit.
 - Quels PNJ résident ici et quel est leur lien avec ce lieu ?
@@ -16,5 +14,5 @@ mais vous pouvez les garder à l'esprit lorsque vous cherchez des idées d'avent
 # Trésors
 Les trésors sont des objets uniques que les PJ pourraient trouver ici. Il peut s'agir d'objets de valeur, d'objets magiques, voire d'artefacts, tous liés d'une manière ou d'une autre à ce lieu.
 # Lieux associés
-- [[Campement de l'Empire]]
+Lieux associés à proximité ou à l'intérieur de celui-ci, si ce lieu est suffisamment vaste pour contenir ses propres zones notables, ou s'il est étroitement lié à d'autres lieux voisins. Si un lieu comprend plusieurs zones, mais qu'elles ne semblent pas suffisamment distinctes pour constituer des lieux distincts, indiquez-les plutôt comme descripteurs. Cela peut rendre un lieu beaucoup plus détaillé.
 # Notes :

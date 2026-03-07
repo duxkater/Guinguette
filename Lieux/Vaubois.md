@@ -14,10 +14,10 @@ Le seul commerce du village, la boulangerie de [[Féliana]], permet à tout le v
 - Plusieurs champs en bordure de forêt dans lesquels paissent quelques vaches fatiguées
 - Le [[Bois du Limier]] bordant le village au nord, sombre et menacante.
 # PNJs
-- [[Milo]]
-- [[Féliana]]
-- [[Durzo]]
-- [[La guèpe]]
+- [[Milo]], Maire
+- [[Féliana]], Boulangère
+- [[Durzo]], Bucheron
+- [[La guèpe]], Guardienne
 # Développements
 - [[La guèpe]] et [[Milo]] s'installent ensemble après que leur union soit découverte
 - [[Féliana]] décide pour de bon de révéler sa pratique de la magie
