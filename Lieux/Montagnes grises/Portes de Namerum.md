@@ -1,9 +1,3 @@
----
-banner: https://i.redd.it/kse9nkpud7ve1.jpeg
-banner-height: 540
-banner-x: 44
-banner-y: 71
----
 # Résumé
 Le résumé d'un lieu décrit son identité principale. Il doit se limiter à une ou deux phrases.
 # Descripteurs

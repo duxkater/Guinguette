@@ -15,4 +15,9 @@ mais vous pouvez les garder à l'esprit lorsque vous cherchez des idées d'avent
 Les trésors sont des objets uniques que les PJ pourraient trouver ici. Il peut s'agir d'objets de valeur, d'objets magiques, voire d'artefacts, tous liés d'une manière ou d'une autre à ce lieu.
 # Lieux associés
 - [[Campement de l'Empire]]
+# Actions spéciales :
+- Se repérer dans les mines
+Lorsque vous cherchez votre chemin dans les ruines, lancez +SAG.
+Sur 7+, vous trouvez votre chemin
+Sur 10+, vous faites une découverte sur la route.
 # Notes :

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Bois du Limier/Branwyn.md",
+                "file": "Personnages/Fortitude/Varek Sol/Hillra, Avatar de la colère.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branwyn"
+              "title": "Hillra, Avatar de la colère"
             }
           }
         ]
@@ -196,20 +196,23 @@
   },
   "active": "71d71ee3284873e0",
   "lastOpenFiles": [
+    "Lieux/Varek Sol.md",
+    "Personnages/Fortitude/Varek Sol/Hillra, Avatar de la colère.md",
+    "Personnages/Fortitude/Varek Sol",
+    "Personnages/Fortitude",
+    "Lieux/Vaubois.md",
+    "Lieux/Montagnes grises/Portes de Namerum.md",
+    "Lieux/Montagnes grises/Mines d'Azuline.md",
+    "Personnages/Bois du Limier/Branwyn.md",
     "Personnages/Montagnes Grises/Mines d'Azuline/Furlos, lézard conscient.md",
     "Personnages/Montagnes Grises/Camp de l'empire/Thessalia.md",
     "Personnages/Montagnes Grises/Camp de l'empire/Gamaliel.md",
     "Lieux/Bois du Limier/Pic du Faucon.md",
-    "Personnages/Bois du Limier/Branwyn.md",
     "Lieux/Bois du Limier/Tour de mage abandonnée.md",
     "Lieux/Montagnes grises/Campement de l'Empire.md",
-    "Lieux/Montagnes grises/Mines d'Azuline.md",
     "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
     "Lieux/Montagnes grises/Montagnes grises.md",
     "Lieux/Bois du Limier/Bois du Limier.md",
-    "Lieux/Vaubois.md",
-    "Lieux/Varek Sol.md",
-    "Lieux/Montagnes grises/Portes de Namerum.md",
     "Personnages/Montagnes Grises/Camp de l'empire/Sundar.md",
     "Personnages/Montagnes Grises/Camp de l'empire/Elyas.md",
     "Menaces/L'élémentaire fongique.md",
@@ -228,9 +231,6 @@
     "Lieux/Montagnes grises",
     "Lieux/Bois du Limier",
     "Templates/Lieu.md",
-    "Personnages/Vaubois/Féliana.md",
-    "Donjons",
-    "Menaces",
-    "Templates"
+    "Donjons"
   ]
 }
