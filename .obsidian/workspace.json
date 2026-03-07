@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Montagnes grises/Campement de l'Empire.md",
+                "file": "Lieux/Montagnes grises/Mines d'Azuline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campement de l'Empire"
+              "title": "Mines d'Azuline"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lieux/Montagnes grises/Campement de l'Empire.md",
+                "file": "Lieux/Montagnes grises/Mines d'Azuline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Campement de l'Empire"
+              "title": "Plan de Mines d'Azuline"
             }
           }
         ],
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +187,25 @@
   },
   "active": "ff9c858c67ba1941",
   "lastOpenFiles": [
+    "Lieux/Montagnes grises/Portes de Namerum.md",
+    "Lieux/Montagnes grises/Campement de l'Empire.md",
+    "Personnages/Montagnes Grises/Camp de l'empire/Willelm.md",
+    "Personnages/Montagnes Grises/Camp de l'empire/Sundar.md",
+    "Personnages/Montagnes Grises/Camp de l'empire/Elyas.md",
+    "Lieux/Montagnes grises/Mines d'Azuline.md",
+    "Menaces/L'élémentaire fongique.md",
+    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
+    "Lieux/Bois du Limier/Pic du Faucon.md",
+    "Factions/Artia.md",
+    "Personnages/Bois du Limier/Elise.md",
+    "Personnages/Bois du Limier",
     "Lieux/Montagnes grises/Montagnes grises.md",
     "Personnages/Vaubois/Durzo.md",
     "Personnages/Montagnes Grises/Camp de l'empire",
     "Personnages/Montagnes Grises/Mines d'Azuline",
     "Personnages/Montagnes Grises",
-    "Lieux/Montagnes grises/Campement de l'Empire.md",
     "Personnages/Vaubois",
-    "Lieux/Montagnes grises/Mines d'Azuline.md",
     "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
-    "Lieux/Montagnes grises/Portes de Namerum.md",
     "Lieux/Varek Sol.md",
     "Lieux/Vaubois.md",
     "Groupe/Ilkar.md",
@@ -204,23 +213,15 @@
     "Factions/Habitants de Vaubois.md",
     "Templates/Faction.md",
     "Lieux/Bois du Limier/Bois du Limier.md",
-    "Lieux/Bois du Limier/Pic du Faucon.md",
-    "Menaces/L'élémentaire fongique.md",
     "Templates/Scène.md",
-    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
     "Lieux/Montagnes grises",
     "Lieux/Bois du Limier",
     "Templates/Lieu.md",
     "Personnages/Vaubois/Féliana.md",
     "Précédemment.md",
     "Personnages/Anis.md",
-    "Personnages/Vaubois/La guèpe.md",
-    "Personnages/Vaubois/Milo.md",
-    "Templates/Menace.md",
-    "Templates/Personnage.md",
     "Donjons",
     "Menaces",
-    "Templates",
-    "Groupe"
+    "Templates"
   ]
 }

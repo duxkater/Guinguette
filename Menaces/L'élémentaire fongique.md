@@ -1,7 +1,7 @@
 # Description
 Un élémentaire fongique, tapi dans la [[Tour de mage abandonnée]], contamine peu à peu la région, rendant les animaux fous et les gobelins enragés. Invoqué par accident par [[Féliana]], il ne peut être tué qu'en détruisant la pierre de météore en son coeur.
 # But
-- Répandre ses sports partout pour contaminer le plus de créatures possible.
+- Répandre ses spores partout pour contaminer le plus de créatures possible.
 # Ressources
 - Nuages de spores
 - Animaux contaminés enragés
@@ -16,8 +16,13 @@ Un élémentaire fongique, tapi dans la [[Tour de mage abandonnée]], contamine 
 - Projeter une vague de spores
 - Faire tousser des spores à ses victimes
 # Scènes
-- [[Milo]] demande de l'aide au [[Groupe]]
-- Des loups attaquent de nuit
+- [x] [[Milo]] demande de l'aide au [[Groupe]]
+- [x] Des loups attaquent de nuit
+- [ ] Arrivée à la [[Tour de mage abandonnée]]
+- [ ] Exploration de la [[Tour de mage abandonnée]]
+- [ ] Découverte de [[La guèpe]] prisonnière des gobelins
+- [ ] Combat contre [[L'élémentaire fongique]]
+- [ ] Attaque du chasseur de prime sur [[La guèpe]]
 # Secrets
 - Il est possible de devenir immunisé aux spores grâce à une plante de la forêt
 - Les animaux contaminés peuvent être raisonnés, 
