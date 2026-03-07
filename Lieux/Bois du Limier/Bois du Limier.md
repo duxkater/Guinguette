@@ -1,9 +1,3 @@
----
-banner: https://i.pinimg.com/1200x/7e/eb/dd/7eebdd4e877e48b023695e6e714b5e61.jpg
-banner-x: 46
-banner-y: 19
-banner-height: 540
----
 # **Description :** 
 Une large forêt longeant les pieds des [[Montagnes grises]]. Principalement peuplée de résineux, de fougères et de buissons de baies, on y trouve ceci dit quelques espèces d'herbes médicinales endémiques.
 Plusieurs cours d'eau la traversent, creusant de larges vallons.

@@ -1,9 +1,3 @@
----
-banner: https://i.pinimg.com/1200x/0f/9d/ea/0f9deacaf0d90b4050c4248c5ee92e27.jpg
-banner-height: 540
-banner-x: 44
-banner-y: 36
----
 # Résumé
 Une tour de mage en ruine, culminant sur le [[Pic du Faucon]] et fouettée par un vent incessant. C'est ici que [[Féliana]] aurait trouvé le grimoire fongique.
 # Instinct

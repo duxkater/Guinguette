@@ -5,9 +5,9 @@ Un campement provisoire construit par l'[[Empire]] pour exploiter les [[Mines d'
 - Une grosse tente de tissu violet, entourée d'une quinzine de tentes de fortune rapiécées.
 - Plusieurs cages de métal dans un coin, dans lesquelles croupissent les criminels fouettés par le vent glacial des montagnes.
 # PNJs
-- [[Willelm]]
-- [[Sundar]]
-- [[Elyas]]
+- [[Willelm]], en charge du campement
+- [[Sundar]], prisonnier paalung
+- [[Elyas]], soldat impérial
 # Développements
 - Révolte des esclaves
 - Les portes de Namerum sont trouvées

@@ -7,9 +7,7 @@ Des mines autrefois creusées par les nains, aujourd'hui exploitées par l'[[Emp
 - Ca et la, des traces de combats
 - Un campement de l'Empire, ses bannières violettes et jaunes flottant au vent.
 # PNJs
-Les PNJ sont les personnes, les animaux, les monstres et autres entités que les aventuriers peuvent rencontrer à cet endroit.
-- Quels PNJ résident ici et quel est leur lien avec ce lieu ?
-- Y a-t-il des signes de leur présence que vous pourriez ajouter aux descripteurs ci-dessus ? 
+- Furlos, lézard conscient
 # Développements
 Les développements sont des changements potentiels, des rebondissements, des découvertes, des améliorations, des dégradations ou autres événements similaires que ce lieu pourrait connaître. Vous n'êtes pas obligé de vous y engager lorsque vous les notez,
 mais vous pouvez les garder à l'esprit lorsque vous cherchez des idées d'aventures ou des conséquences intéressantes.
