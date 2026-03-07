@@ -6,8 +6,8 @@ Un élémentaire fongique, tapi dans la [[Tour de mage abandonnée]], contamine 
 - Nuages de spores
 - Animaux contaminés enragés
 # Développements
-- [ ] Les loups commencent à attaquer le village, hors de tout controle
-- [ ] Le chef du clan des BriseTibias, des gobelins sylvestres, meurt suite à la contamination
+- [x] Les loups commencent à attaquer le village, hors de tout controle
+- [x] Le chef du clan des BriseTibias, des gobelins sylvestres, meurt suite à la contamination
 - [ ] La tour s'effondre, répendant une quantité phénoménale de spores sur les [[Bois du Limier]]
 - [ ] Le village est complètement contaminé
 - [ ] La région devient un écosystème fongique pesant sur l'empire
@@ -16,7 +16,8 @@ Un élémentaire fongique, tapi dans la [[Tour de mage abandonnée]], contamine 
 - Projeter une vague de spores
 - Faire tousser des spores à ses victimes
 # Scènes
-Scènes énumérées qui pourraient se produire en lien avec la menace
+- [[Milo]] demande de l'aide au [[Groupe]]
+- Des loups attaquent de nuit
 # Secrets
 - Il est possible de devenir immunisé aux spores grâce à une plante de la forêt
 - Les animaux contaminés peuvent être raisonnés, 

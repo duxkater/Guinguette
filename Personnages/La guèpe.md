@@ -20,5 +20,5 @@ L'[[Empire]] a placé placé une prime sur sa tête, depuis qu'elle a assassiné
 - Dégâts : 5 Cac
 # Paliers :
 # Notes :
-- Elle a chez elle un marteau nain, vieux de plusieurs siècles, ayant appartenu à un ordre aujourd'hui disparu, l'[[Ordre Thrakarim]].
+- Elle a chez elle un marteau nain, vieux de plusieurs siècles, ayant appartenu à un ordre aujourd'hui disparu, l'[[Thrakarims]].
 - Elle a accueilli le groupe dans sa maison le temps d'une nuit, après l'attaque des loups.
