@@ -1,9 +1,9 @@
 # Résumé
 Un campement provisoire construit par l'[[Empire]] pour exploiter les [[Mines d'Azuline]]. Une vingtaine de tentes de fortune, une grosse tente de commandement et une fragile palissade de bois.
 # Descripteurs
-- Une barrière magique entoure le lieu : plusieurs pylones projetant de la foudre sur les curieux.
+- Une barrière magique entoure le lieu : plusieurs pylônes projetant de la foudre sur les curieux.
 - Une grosse tente de tissu violet, entourée d'une quinzine de tentes de fortune rapiécées.
-- Plusieurs cages de métal dans un coin, dans lesquelles croupissent les criminels fouéttés par le vent glacial des montagnes.
+- Plusieurs cages de métal dans un coin, dans lesquelles croupissent les criminels fouettés par le vent glacial des montagnes.
 # PNJs
 Les PNJ sont les personnes, les animaux, les monstres et autres entités que les aventuriers peuvent rencontrer à cet endroit.
 - Quels PNJ résident ici et quel est leur lien avec ce lieu ?

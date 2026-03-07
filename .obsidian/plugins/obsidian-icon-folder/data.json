@@ -36,10 +36,6 @@
   },
   "Lieux/Vaubois.md": "LiMapPin",
   "Menaces/L'élémentaire fongique.md": "LiSkull",
-  "Personnages/Durzo.md": "LiPersonStanding",
-  "Personnages/Féliana.md": "LiPersonStanding",
-  "Personnages/La guèpe.md": "LiPersonStanding",
-  "Personnages/Milo.md": "LiPersonStanding",
   "Templates/Donjon.md": "LiCastle",
   "Templates/Lieu.md": "LiMapPin",
   "Templates/Menace.md": "LiSkull",
@@ -64,5 +60,9 @@
   "Lieux/Varek Sol.md": "LiMapPin",
   "Lieux/Montagnes grises/Avant-poste de Paalungpur.md": "LiMapPin",
   "Lieux/Montagnes grises/Portes de Namerum.md": "LiMapPin",
-  "Lieux/Montagnes grises/Campement de l'Empire.md": "LiMapPin"
+  "Lieux/Montagnes grises/Campement de l'Empire.md": "LiMapPin",
+  "Personnages/Vaubois/Milo.md": "LiPersonStanding",
+  "Personnages/Vaubois/Durzo.md": "LiPersonStanding",
+  "Personnages/Vaubois/Féliana.md": "LiPersonStanding",
+  "Personnages/Vaubois/La guèpe.md": "LiPersonStanding"
 }

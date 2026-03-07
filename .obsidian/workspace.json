@@ -174,22 +174,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "ff9c858c67ba1941",
   "lastOpenFiles": [
-    "Lieux/Montagnes grises/Mines d'Azuline.md",
-    "Lieux/Montagnes grises/Campement de l'Empire.md",
     "Lieux/Montagnes grises/Montagnes grises.md",
+    "Personnages/Vaubois/Durzo.md",
+    "Personnages/Montagnes Grises/Camp de l'empire",
+    "Personnages/Montagnes Grises/Mines d'Azuline",
+    "Personnages/Montagnes Grises",
+    "Lieux/Montagnes grises/Campement de l'Empire.md",
+    "Personnages/Vaubois",
+    "Lieux/Montagnes grises/Mines d'Azuline.md",
     "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
     "Lieux/Montagnes grises/Portes de Namerum.md",
     "Lieux/Varek Sol.md",
@@ -206,22 +211,16 @@
     "Lieux/Montagnes grises",
     "Lieux/Bois du Limier",
     "Templates/Lieu.md",
-    "Personnages/Féliana.md",
-    "Personnages/Durzo.md",
+    "Personnages/Vaubois/Féliana.md",
     "Précédemment.md",
     "Personnages/Anis.md",
-    "Personnages/La guèpe.md",
-    "Personnages/Milo.md",
+    "Personnages/Vaubois/La guèpe.md",
+    "Personnages/Vaubois/Milo.md",
     "Templates/Menace.md",
     "Templates/Personnage.md",
-    "Templates/Donjon.md",
     "Donjons",
     "Menaces",
     "Templates",
-    "Groupe",
-    "Objets",
-    "Personnages",
-    "Factions",
-    "Lieux"
+    "Groupe"
   ]
 }
