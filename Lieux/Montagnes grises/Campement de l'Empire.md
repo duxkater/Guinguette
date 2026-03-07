@@ -4,8 +4,9 @@ Un campement provisoire construit par l'[[Empire]] pour exploiter les [[Mines d'
 - Une barrière magique entoure le lieu : plusieurs pylônes projetant de la foudre sur les curieux.
 - Une grosse tente de tissu violet, entourée d'une quinzine de tentes de fortune rapiécées.
 - Plusieurs cages de métal dans un coin, dans lesquelles croupissent les criminels fouettés par le vent glacial des montagnes.
+- Un vent glacial en permanence, faisant claquer les tissus des tentes.
 # PNJs
-- [[Willelm]], en charge du campement
+- [[Gamaliel]], en charge du campement
 - [[Sundar]], prisonnier paalung
 - [[Elyas]], soldat impérial
 # Développements
