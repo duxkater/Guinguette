@@ -16,7 +16,7 @@ Toge blanche bordée de fil doré, des runes peintes dans le dos
 - Magie
 - Peur
 # Rumeurs :
-- elle monterait une armée en secret pour renverser l'[[Empire]] et en prendre la tête
+- elle monte une armée en secret pour renverser l'[[Empire]] et en prendre la tête
 # Statistiques :
 - PV : 6
 - Dégâts : 5

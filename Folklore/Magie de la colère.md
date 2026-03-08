@@ -1,0 +1,1 @@
+C'est la magie impériale enseignée à [[Varek Sol]] et celle que [[Ilkar]] a appris. Elle pousse les émotions du pratiquant dans les plus basses couches pour en tirer de l'énergie.
