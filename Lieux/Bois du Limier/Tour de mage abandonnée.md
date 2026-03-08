@@ -14,14 +14,14 @@ Une tour de mage en ruine, culminant sur le [[Pic du Faucon]] et fouettée par u
 - L'air semble chargé de spore qui scintillent dans les rayons du soleil
 - Des champignons oranges qui poussent sur les éléments en bois
 # Trésors
-- Un pot de cire d'Approxis, une cire qui nettoie instantanément n'importe quel objet.
-- Un traité de philosophie rongé par le temps.
-- Une cuillère en argent qui rend les plats qu'elle mélange vingt fois meilleurs.
-- Un poème oublié de tous : "Le Lac Lointain" de Willelm La Bévue, un très ancien poète.
+- [ ] Un pot de cire d'Approxis, une cire qui nettoie instantanément n'importe quel objet.
+- [ ] Un traité de philosophie rongé par le temps.
+- [ ] Une cuillère en argent qui rend les plats qu'elle mélange vingt fois meilleurs.
+- [x] Un poème oublié de tous : "Le Lac Lointain" de Willelm La Bévue, un très ancien poète.
 # Intrigues
 ## Ouvertures
 - [ ] **Devant l'entrée** : Deux gobelins faisant une patrouille se chamaillent. L'un d'entre eux, couvert  de champignons, gonfle subitement avant de se dégonfler totalement.
-- [ ] **Sous le porche :** Un visage de gargouille sculpté au dessus de la porte demande à chaque passant si "Le maître est rentré". Si on répond oui, il demande le mot de passe. Une mauvaise réponse déclenche un piège (lasers par les yeux)
+- [x] **Sous le porche :** Un visage de gargouille sculpté au dessus de la porte demande à chaque passant si "Le maître est rentré". Si on répond oui, il demande le mot de passe. Une mauvaise réponse déclenche un piège (lasers par les yeux)
 ## Découvertes
 - [ ] **Pièce à vivre** :  Ce qui ressemble a une ancienne pièce à vivre, plusieurs meubles vermoulus, des piles de vaisselle en cuivre, une odeur de fiente et de sueur, un pan de mur effondré laisse apercevoir l'horizon. Un attroupement de 4 Gobelins dans une pièce qui regardent un combat de corbeaux dans une cage. Un des gobelins dort dans un hamac, indifférent au bruit ambiant.
 - [ ] **Cuisine :** Une petite pièce qui semble avoir été une cuisine. Dans un coin de la pièce, une cage en bois sommaire dans laquelle se trouve [[La guèpe]] évanouie. Des plaques de contamination sur le visage.

@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb1d5ec246a4364",
+        "id": "3f4f1c0129a2c229",
         "type": "tabs",
         "children": [
           {
-            "id": "71d71ee3284873e0",
+            "id": "64943c289a8b000d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Montagnes grises/Sources chaudes de Damek.md",
+                "file": "Lieux/Bois du Limier/Pic du Faucon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sources chaudes de Damek"
+              "title": "Pic du Faucon"
+            }
+          },
+          {
+            "id": "a46a270ffa7b2720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Bois du Limier/Branwyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branwyn"
+            }
+          },
+          {
+            "id": "6657a13505263d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lieux/Bois du Limier/Tour de mage abandonnée.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tour de mage abandonnée"
+            }
+          },
+          {
+            "id": "d593a46b0ea25a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupe/Ilkar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ilkar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,81 +199,71 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Bois du Limier/Branwyn.md",
+                "file": "Lieux/Bois du Limier/Tour de mage abandonnée.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Branwyn"
-            }
-          },
-          {
-            "id": "071f24afa6205818",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Plan de Tour de mage abandonnée"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71d71ee3284873e0",
+  "active": "6657a13505263d1e",
   "lastOpenFiles": [
-    "Lieux/Montagnes grises/Montagnes grises.md",
-    "Lieux/Montagnes grises/Sources chaudes de Damek.md",
-    "Lieux/Varek Sol.md",
-    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
-    "Personnages/Fortitude/Varek Sol/Hillra, Avatar de la colère.md",
-    "Personnages/Bois du Limier/Branwyn.md",
-    "Personnages/Montagnes Grises/Mines d'Azuline/Furlos, lézard conscient.md",
-    "Lieux/Montagnes grises/Campement de l'Empire.md",
-    "Lieux/Montagnes grises/Mines d'Azuline.md",
-    "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
-    "Folklore/Magie de la colère.md",
-    "Folklore/Magie elfe.md",
-    "Folklore/Magie bleue.md",
-    "Groupe/Groupe.md",
-    "Personnages/Montagnes Grises/Camp de l'empire/Sundar.md",
-    "Folklore",
-    "Personnages/Montagnes Grises/Camp de l'empire/Gamaliel.md",
-    "Personnages/Montagnes Grises/Camp de l'empire/Elyas.md",
-    "Personnages/Montagnes Grises/Camp de l'empire/Thessalia.md",
-    "Menaces/L'élémentaire fongique.md",
     "Groupe/Ilkar.md",
-    "Personnages/Fortitude/Varek Sol",
-    "Personnages/Fortitude",
-    "Lieux/Vaubois.md",
-    "Lieux/Montagnes grises/Portes de Namerum.md",
+    "Sans titre.md",
+    "Factions/Artia.md",
+    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
+    "Personnages/Bois du Limier/Branwyn.md",
     "Lieux/Bois du Limier/Pic du Faucon.md",
     "Lieux/Bois du Limier/Bois du Limier.md",
-    "Factions/Artia.md",
-    "Personnages/Bois du Limier",
-    "Personnages/Vaubois/Durzo.md",
-    "Personnages/Montagnes Grises/Camp de l'empire",
-    "Personnages/Montagnes Grises/Mines d'Azuline",
-    "Personnages/Montagnes Grises",
-    "Personnages/Vaubois",
+    "Précédemment.md",
+    "Groupe/Groupe.md",
+    "Lieux/Montagnes grises/Montagnes grises.md",
+    "Lieux/Montagnes grises/Campement de l'Empire.md",
+    "Lieux/Montagnes grises/Sources chaudes de Damek.md",
+    "Folklore/Magie elfe.md",
+    "Folklore/Magie de la colère.md",
+    "Folklore/Magie bleue.md",
+    "Folklore",
+    "Lieux/Montagnes grises/Mines d'Azuline.md",
+    "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
+    "Lieux/Montagnes grises/Portes de Namerum.md",
+    "Lieux/Varek Sol.md",
+    "Lieux/Vaubois.md",
+    "Factions/Thrakarims.md",
+    "Factions/Habitants de Vaubois.md",
+    "Templates/Faction.md",
+    "Menaces/L'élémentaire fongique.md",
+    "Templates/Scène.md",
     "Lieux/Montagnes grises",
-    "Lieux/Bois du Limier"
+    "Lieux/Bois du Limier",
+    "Templates/Lieu.md",
+    "Donjons",
+    "Menaces",
+    "Templates",
+    "Groupe",
+    "Objets",
+    "Personnages",
+    "Factions"
   ]
 }

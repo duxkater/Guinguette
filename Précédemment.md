@@ -16,9 +16,9 @@
 - La guèpe a laissé un message au groupe : elle est partie en éclaireuse pour quelques jours et leur laisse la maison en attendant. Elle suggère de chercher à manger chez Féliana, la boulangère
 - Le groupe passe voir Milo qui travaille au jardin, il leur apprend qu'une récompense est prévue pour les aventuriers qui résoudraient le souci. Il leur prète une corde magique qui obéit aux ordres
 - Le groupe va voir Féliana, ils apprennent qu'ele pratique la magie elfe, qui génère une douce odeur d'agrumes pour les sensibles à la magie
-- Ils apprenent également qu'elle est à l'origine du mal fongique : elle a trouvé un grimoire de magie fongique dans une tour abandonnée, et elle a tenté de maitriser un sort qui a dérapé.
+- Ils apprenent également qu'elle est à l'origine du mal fongique : elle a trouvé un grimoire de magie fongique dans une tour abandonnée, et elle a tenté de maîtriser un sort qui a dérapé.
 - En étudiant le grimoire, Ilkar apprend que pour invoquer l'élémentaire fongique, il faut utiliser une pierre de météore en son coeur. Le seul moyen de détruire l'élémentaire est de briser la pierre (qui vaut plusieurs millions omg)
 - Avant de partir, Jask a joué un morceau devant le village. Féliana lui dit qu'il a des aptitudes à la magie, et qu'elle pourrait lui en enseigner les secrets. Il semble refuser
 - Départ en voyage, le groupe marche une demie journée avant de tomber dans une embuscade de gobelins. L'un d'eux est contaminé. Ils apprennent au groupe que leur chef est mort, contaminé lui aussi.
-- Encore queqlues heures de voyage et voila le groupe arrivé sur un promontoire, en vue de la tour. Il leur reste une heure de marche environ, dont un peu d'escalade.
+- Encore quelques heures de voyage et voila le groupe arrivé sur un promontoire, en vue de la tour. Il leur reste une heure de marche environ, dont un peu d'escalade.
 - Jask et Ilkar doivent monter de niveau
