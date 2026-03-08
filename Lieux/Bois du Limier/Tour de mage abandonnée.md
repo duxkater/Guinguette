@@ -17,6 +17,7 @@ Une tour de mage en ruine, culminant sur le [[Pic du Faucon]] et fouettée par u
 - Un pot de cire d'Approxis, une cire qui nettoie instantanément n'importe quel objet.
 - Un traité de philosophie rongé par le temps.
 - Une cuillère en argent qui rend les plats qu'elle mélange vingt fois meilleurs.
+- Un poème oublié de tous : "Le Lac Lointain" de Willelm La Bévue, un très ancien poète.
 # Intrigues
 ## Ouvertures
 - [ ] **Devant l'entrée** : Deux gobelins faisant une patrouille se chamaillent. L'un d'entre eux, couvert  de champignons, gonfle subitement avant de se dégonfler totalement.
@@ -24,6 +25,6 @@ Une tour de mage en ruine, culminant sur le [[Pic du Faucon]] et fouettée par u
 ## Découvertes
 - [ ] **Pièce à vivre** :  Ce qui ressemble a une ancienne pièce à vivre, plusieurs meubles vermoulus, des piles de vaisselle en cuivre, une odeur de fiente et de sueur, un pan de mur effondré laisse apercevoir l'horizon. Un attroupement de 4 Gobelins dans une pièce qui regardent un combat de corbeaux dans une cage. Un des gobelins dort dans un hamac, indifférent au bruit ambiant.
 - [ ] **Cuisine :** Une petite pièce qui semble avoir été une cuisine. Dans un coin de la pièce, une cage en bois sommaire dans laquelle se trouve [[La guèpe]] évanouie. Des plaques de contamination sur le visage.
-- [ ] **Une petite salle d'écriture**, avec un pupitre au centre, et du matériel dispersé un peu partout. Un des murs est effondré et du lierre pousse depuis l'extérieur, il envahit les 3/4 de la pièce. Sur le pupitre, un grimoire en cours d'écriture laissé à l'abandon.
+- [ ] **Une petite salle d'écriture**, avec un pupitre au centre, et du matériel dispersé un peu partout. Un des murs est effondré et du lierre pousse depuis l'extérieur, il envahit les 3/4 de la pièce. Sur le pupitre, un grimoire en cours d'écriture laissé à l'abandon, traitant des plantes de la région.
 ## Point culminant
 - [ ] **L'observatoire** : Un observatoire rempli de cartes du ciel et d'objets étranges sifflant et brillants. Partout, des champignons jaunatres ont envahi la pièce, sur les murs, le sol, le plafond. C'est l'entité invoquée par erreur par Zorbo qui dévore la tour peu à peu. En son coeur, la pierre de météore. Au plafond, un gobelin pris dans un cocon fongique, ses yeux ouverts suppliant de le libérer. Féliana arrive pendant le combat pour aider le groupe.
