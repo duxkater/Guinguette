@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Varek Sol.md",
+                "file": "Lieux/Montagnes grises/Sources chaudes de Damek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varek Sol"
+              "title": "Sources chaudes de Damek"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "71d71ee3284873e0",
   "lastOpenFiles": [
+    "Lieux/Montagnes grises/Montagnes grises.md",
+    "Lieux/Montagnes grises/Sources chaudes de Damek.md",
+    "Lieux/Varek Sol.md",
     "Lieux/Bois du Limier/Tour de mage abandonnée.md",
     "Personnages/Fortitude/Varek Sol/Hillra, Avatar de la colère.md",
     "Personnages/Bois du Limier/Branwyn.md",
@@ -214,13 +217,11 @@
     "Personnages/Montagnes Grises/Camp de l'empire/Thessalia.md",
     "Menaces/L'élémentaire fongique.md",
     "Groupe/Ilkar.md",
-    "Lieux/Varek Sol.md",
     "Personnages/Fortitude/Varek Sol",
     "Personnages/Fortitude",
     "Lieux/Vaubois.md",
     "Lieux/Montagnes grises/Portes de Namerum.md",
     "Lieux/Bois du Limier/Pic du Faucon.md",
-    "Lieux/Montagnes grises/Montagnes grises.md",
     "Lieux/Bois du Limier/Bois du Limier.md",
     "Factions/Artia.md",
     "Personnages/Bois du Limier",
@@ -229,7 +230,6 @@
     "Personnages/Montagnes Grises/Mines d'Azuline",
     "Personnages/Montagnes Grises",
     "Personnages/Vaubois",
-    "Factions/Thrakarims.md",
     "Lieux/Montagnes grises",
     "Lieux/Bois du Limier"
   ]
