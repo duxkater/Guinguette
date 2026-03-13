@@ -1,5 +1,5 @@
 # **Description :** 
-Chroniqueuse Artienne. Elle parcourt les terres et relate les faits dans ses grimoires.
+Chroniqueuse [[Artia | Artienne]]. Elle parcourt les terres et relate les faits dans ses grimoires.
 # Apparence :
 Artienne : Cheveux noirs, yeux de chats, robe de voyage rapiécée et baton de marche gravé de runes.
 Chapeau artien typique (chapeau rouge à bord large bordé de gemmes).

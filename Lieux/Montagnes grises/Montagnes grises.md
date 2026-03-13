@@ -14,4 +14,8 @@ mais vous pouvez les garder à l'esprit lorsque vous cherchez des idées d'avent
 - Une gemme taillée en forme d'un visage nain, dont les yeux semblent vous suivre
 # Lieux associés
 - [[Mines d'Azuline]]
+- [[Avant-poste de Paalungpur]]
+- [[Campement de l'Empire]]
+- [[Portes de Namerum]]
+- [[Sources chaudes de Damek]]
 # Notes :

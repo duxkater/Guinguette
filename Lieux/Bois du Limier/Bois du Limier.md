@@ -6,6 +6,7 @@ En son centre, le [[Pic du Faucon]] forme un point de repère connu des nombreux
 # **Sous-lieux:**
 - [[Pic du Faucon]]
 - [[Tour de mage abandonnée]]
+- [[Lieux/Bois du Limier/Antre de Krivid]]
 # **Impressions :** 
 - 
 # **Notes :**
