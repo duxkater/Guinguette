@@ -18,8 +18,8 @@ Un élémentaire fongique, tapi dans la [[Tour de mage abandonnée]], contamine 
 # Scènes
 - [x] [[Milo]] demande de l'aide au [[Groupe]]
 - [x] Des loups attaquent de nuit
-- [ ] Arrivée à la [[Tour de mage abandonnée]]
-- [ ] Exploration de la [[Tour de mage abandonnée]]
+- [x] Arrivée à la [[Tour de mage abandonnée]]
+- [x] Exploration de la [[Tour de mage abandonnée]]
 - [ ] Découverte de [[La guèpe]] prisonnière des gobelins
 - [ ] Combat contre [[L'élémentaire fongique]]
 - [ ] Attaque du chasseur de prime sur [[La guèpe]]
