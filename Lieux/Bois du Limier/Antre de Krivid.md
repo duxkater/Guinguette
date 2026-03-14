@@ -9,7 +9,6 @@ L'[[Antre de Krivid]] de été abandonnée par l'ordre lorsqu'un torrent de flam
 - Entoiler les curieux 
 - Défendre à tout prix la salle des œufs
 # Traits
-Les obstacles, habitants et environnements notables que l'on peut trouver partout dans le Donjon. Si vous souhaitez introduire un nouvel élément dans une scène, inspirez-vous-en.
 Araignées de toute taille, murs couverts de toile collante, faux sols en toile cachant des fosses, élémentaire, faille démonique
 # Descripteurs
 - Entrée en bord de falaise, bordée de sculptures érodées par le temps : des statues au visage effacé, des piliers effondrés et recouverts de toile d'araignée.
