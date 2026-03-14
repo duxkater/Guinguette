@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Bois du Limier/Antre de Krivid.md",
+                "file": "Personnages/Bois du Limier/Antre de Krivid/Attilius.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antre de Krivid"
+              "title": "Attilius"
             }
           }
         ]
@@ -196,12 +196,15 @@
   },
   "active": "71d71ee3284873e0",
   "lastOpenFiles": [
+    "Lieux/Bois du Limier/Antre de Krivid.md",
+    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
+    "Personnages/Bois du Limier/Branwyn.md",
+    "Personnages/Bois du Limier/Antre de Krivid/Attilius.md",
     "Personnages/Bois du Limier/Antre de Krivid/Enfant de Krivid.md",
     "Personnages/Bois du Limier/Antre de Krivid/Krivid.md",
     "Lieux/Bois du Limier/Pic du Faucon.md",
     "Personnages/Bois du Limier/Antre de Krivid",
     "Personnages/Bois du Limier/Antre de Krivid.md",
-    "Lieux/Bois du Limier/Antre de Krivid.md",
     "Lieux/Bois du Limier/Bois du Limier.md",
     "Groupe/Groupe.md",
     "Folklore/Magie bleue.md",
@@ -212,17 +215,14 @@
     "Précédemment.md",
     "Sans titre.md",
     "Factions/Artia.md",
-    "Personnages/Bois du Limier/Branwyn.md",
     "Personnages/Montagnes Grises/Camp de l'empire/Thessalia.md",
     "Menaces/L'élémentaire fongique.md",
     "Lieux/Montagnes grises/Mines d'Azuline.md",
-    "Lieux/Bois du Limier/Tour de mage abandonnée.md",
     "Lieux/Varek Sol.md",
     "Personnages/Fortitude/Varek Sol/Hillra, Avatar de la colère.md",
     "Personnages/Montagnes Grises/Mines d'Azuline/Furlos, lézard conscient.md",
     "Lieux/Montagnes grises/Campement de l'Empire.md",
     "Lieux/Montagnes grises/Avant-poste de Paalungpur.md",
-    "Personnages/Montagnes Grises/Camp de l'empire/Sundar.md",
     "Folklore",
     "Personnages/Fortitude/Varek Sol",
     "Personnages/Fortitude",

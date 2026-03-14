@@ -21,13 +21,12 @@ Araignées de toute taille, murs couverts de toile collante, faux sols en toile 
 # Intrigues
 Les scènes qui peuvent se dérouler pendant que les PJ explorent le donjon. Elles sont divisées en plusieurs catégories. Comme les donjons consistent généralement à explorer un environnement spécifique, de nombreuses intrigues précisent leur lieu d'action, tandis que d'autres le laissent ouvert. Les intrigues peuvent inclure :
 ## Ouvertures
-- **Le hall d'entrée** : Plafond assez haut, quelques gravures, des pièces d'armure rouillées sur le sol, un carquois elfe. Quelques araignées gardent l'entrée et n'hésitent pas à attaquer à vue.
-- **La faille dans la falaise** : L'entrée de la grotte. Des dizaines de roches devant forment un genre de labyrinthe. Le brouillard et les toiles d'araignée rendent le lieu pâle et lugubre.
+- [ ] **Le hall d'entrée** : Plafond assez haut, quelques gravures, des pièces d'armure rouillées sur le sol, un carquois elfe. Quelques araignées gardent l'entrée et n'hésitent pas à attaquer à vue.
+- [ ] **La faille dans la falaise** : L'entrée de la grotte. Des dizaines de roches devant forment un genre de labyrinthe. Le brouillard et les toiles d'araignée rendent le lieu pâle et lugubre.
 ## Découvertes
-- **Couloirs :** Un journal rongé par l'humidité relatant la vie quotidienne de l'ordre. Mentions de la faille. Rangées de statues de religieux.
-- **Salle des oeufs :**
-- **Salle du trone :**
+- [ ] **Couloirs :** Un journal rongé par l'humidité relatant la vie quotidienne de l'ordre. Mentions de la faille. Rangées de statues de religieux.
+- [ ] **Salle des œufs :** Une ancienne caserne de l'ordre à présent couverte de grappes d'œufs.
 ## Point culminant
-- **Planque de Krivid :**
-- **Salle de la faille :**
+- [ ] **Salle du trône :** La chapelle de l'ordre, en ruine. En son centre, un gigantesque amas de toile et de poutres de bois moisi. C'est la que dort [[Krivid]], entourée de sa cour
+- [ ] **Salle de la faille :** L'accès est bloqué par des éboulements. Derrière se trouve [[Attilius]], dernier défenseur de la faille, et immortel de l'ordre.
 # Notes :
