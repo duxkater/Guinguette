@@ -6,7 +6,7 @@ De nombreuses bannières différentes flottant au vent.
 Des colonnes gravées de milliers de noms de mages ayant étudié ici. Certains noms sont barrés.
 De hautes tours d'ou émanent des lueurs inquiétantes
 # PNJs
-- Hillra, Avatar de la colère. En charge de l'école
+- [[Hillra, Avatar de la colère]], Avatar de la colère. En charge de l'école
 # Développements
 Les développements sont des changements potentiels, des rebondissements, des découvertes, des améliorations, des dégradations ou autres événements similaires que ce lieu pourrait connaître. Vous n'êtes pas obligé de vous y engager lorsque vous les notez,
 mais vous pouvez les garder à l'esprit lorsque vous cherchez des idées d'aventures ou des conséquences intéressantes.
