@@ -1,0 +1,7 @@
+*Nom de la maison close 
+![😗](https://discord.com/assets/b8deed70d3e4a9bd.svg) La Fleur Blanche 
+*Elle se situe 
+![😗](https://discord.com/assets/b8deed70d3e4a9bd.svg) Endroit à déterminer (si tu as une carte du monde, je veux bien).
+*La maquerelle se nomme ![😗](https://discord.com/assets/b8deed70d3e4a9bd.svg) Samantha PREYS C'est une ancienne courtisane qui s’occupe de ce lieu à la demande du seigneur de ces terres. 
+*Mon rapport avec les filles de la pension ![😗](https://discord.com/assets/b8deed70d3e4a9bd.svg) Elles sont comme des mères ou des sœurs adoptives pour moi. Ce sont elles qui m’ont donné l’éducation que j’ai aujourd’hui. Elles n’ont pas de nom de groupe, mais je les appelle ma première et ma seconde famille. 
+*Nom de ma sœur ![😗](https://discord.com/assets/b8deed70d3e4a9bd.svg) Luse Sa disparition a eu lieu au beau milieu de la nuit. Des brigands sont venus la récupérer. Les femmes m’ont caché et ont fait preuve de solidarité à mon égard pour m’aider à remonter la pente. Aujourd’hui, je n’ai plus que de brefs souvenirs. Ma sœur Luse avait 4 ou 5 ans et servait comme domestique ; c’étaient ses premiers jours. Quant à moi, j’en avais 6 ou 7. Aujourd’hui, mon personnage a 28 ans.
